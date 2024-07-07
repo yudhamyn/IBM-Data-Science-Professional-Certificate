@@ -1,5 +1,3 @@
-![ViewCount](https://views.whatilearened.today/views/github/navassherif98/IBM_Data_Science_Professional_Certification.svg?cache=remove)
-
 # IBM: Data Science Professional Certification
 
 <img src="https://i.imgur.com/YCFnjvg.png" alt="Smiley face" height="250" width="400"> <img src="https://images.credly.com/images/28944969-813a-43b9-944f-7910111ce764/Professional_Certificate_-_Data_Science.png" alt="Smiley face" height="250" width="250">
@@ -38,8 +36,4 @@ The courses enlisted in this specialization are as follows:
 
 <br>
 
-The course is a paid Course but if you can't afford that, then there is **Finacial Aid** option
-You can apply for that by answering some questions 
-
-Check this answers so you will get a rough idea : [Financial Aid Answers](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification/blob/main/Financial%20Aid.pdf)
 # IBM-Data-Science-Professional-Certificate
